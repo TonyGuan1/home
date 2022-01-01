@@ -86,9 +86,6 @@ Menu:
                   name: ' '
                 '21':
                   id: TNT
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Raiding &bShop'
                   target-shop: 'Raiding'
                 '22':
