@@ -61,9 +61,6 @@ Menu:
                   name: ' '
                 '13':
                   id: BREWING_STAND
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Brewing'
                   target-shop: 'Brewing'
                 '14':
@@ -251,9 +248,6 @@ Menu:
                 '13':
                   id: PLAYER_HEAD
                   skull-uuid: 'bb6bccb6-cd90-4844-9b1b-60722b1823ae'
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Head Shop'
                   target-shop: 'Heads'
                 '14':
@@ -284,23 +278,14 @@ Menu:
                       splash: true
                       extended: false
                       upgraded: true
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Potion &bShop'
                   target-shop: 'Potions'
                 '22':
                   id: FIREWORK_ROCKET
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Fireworks'
                   target-shop: 'Fireworks'
                 '23':
                   id: CHEST
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Pre-Filled Chest &bShop'
                   target-shop: 'Chests'
                 '24':
@@ -329,20 +314,13 @@ Menu:
                   id: BLUE_STAINED_GLASS_PANE
                   name: ' '
                 '31':
-                  id: CREEPER_SPAWN_EGG
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
-                  name: '&4Egg Shop'
-                  target-shop: 'Eggs'
+                  id: BLUE_STAINED_GLASS_PANE
+                  name: ' '
                 '32':
                   id: BLUE_STAINED_GLASS_PANE
                   name: ' '
                 '33':
                   id: POPPY
-                  lore:
-                  - '&aLine 1'
-                  - '&bLine 2'
                   name: '&4Flower / Decor Shop'
                   target-shop: 'Flowers'
                 '34':
